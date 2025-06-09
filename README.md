@@ -72,17 +72,9 @@ Currency Converter/
 
 ---
 
-## 📸 Screenshots
-
-> You can include GUI screenshots here later to showcase the application.
-
----
 
 ## 📌 Author
-
-- **Your Name**
-- [GitHub Profile](https://github.com/your-username)
-
+- [GitHub Profile-https://github.com/ItsMeDevil-Coader/Currency-Converter/
 ---
 
 ## 📄 License
